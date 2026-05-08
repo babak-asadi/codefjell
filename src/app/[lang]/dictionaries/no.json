@@ -41,6 +41,18 @@
     "subtitle": "La oss snakke om hvordan Codefjell kan hjelpe din virksomhet fremover.",
     "cta": "Kontakt oss"
   },
+  "contactPage": {
+    "heading": "Kontakt oss",
+    "subtitle": "Fyll ut skjemaet nedenfor, så tar vi kontakt med deg så snart som mulig.",
+    "form": {
+      "name": "Navn",
+      "email": "E-post",
+      "message": "Melding",
+      "submit": "Send melding",
+      "success": "Meldingen din er sendt. Vi tar kontakt snart!",
+      "error": "Noe gikk galt. Vennligst prøv igjen."
+    }
+  },
   "footer": {
     "tagline": "IT-rådgivning, programvareutvikling og teknologiopplæring.",
     "copyright": "© 2026 Codefjell. Alle rettigheter forbeholdt."

@@ -39,7 +39,7 @@ export default function Header({ lang, dict }: HeaderProps) {
           <Button color="inherit" component={Link} href={`/${lang}#about`}>
             {dict.nav.about}
           </Button>
-          <Button color="inherit" component={Link} href={`/${lang}#contact`}>
+          <Button color="inherit" component={Link} href={`/${lang}/contact`}>
             {dict.nav.contact}
           </Button>
           <Button

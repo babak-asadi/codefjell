@@ -24,9 +24,12 @@ jobs:
         run: npm run build
 
       - name: Prepare deploy artifacts
+        env:
+          RSEND_KEY: ${{ secrets.RSEND_KEY }}
         run: |
           mkdir deploy
           cp -r dist public node_modules package.json package-lock.json next.config.ts deploy/
+          echo "RSEND_KEY=$RSEND_KEY" > deploy/.env.local
 
       - name: Deploy
         uses: burnett01/rsync-deployments@7.0.1

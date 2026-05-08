@@ -41,6 +41,18 @@
     "subtitle": "Let's talk about how Codefjell can help your business move forward.",
     "cta": "Contact Us"
   },
+  "contactPage": {
+    "heading": "Contact Us",
+    "subtitle": "Fill in the form below and we'll get back to you as soon as possible.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Your message has been sent. We'll be in touch soon!",
+      "error": "Something went wrong. Please try again."
+    }
+  },
   "footer": {
     "tagline": "IT consulting, software development, and technology education.",
     "copyright": "© 2026 Codefjell. All rights reserved."
