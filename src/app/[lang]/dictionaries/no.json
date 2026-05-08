@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "services": "Tjenester",
+    "about": "Om oss",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "IT-rådgivning & Programvareutvikling",
+    "subtitle": "Codefjell leverer ekspert IT-rådgivning, programvareutvikling og teknologiopplæring for å hjelpe din virksomhet fremover.",
+    "cta": "Ta kontakt"
+  },
+  "services": {
+    "heading": "Hva vi gjør",
+    "portal": {
+      "title": "Drift av web-portaler",
+      "description": "Forvaltning og drift av web-portaler — vi sørger for at din digitale tilstedeværelse fungerer pålitelig og sikkert."
+    },
+    "consulting": {
+      "title": "Konsulenttjenester innen IT",
+      "description": "Ekspert veiledning om teknologivalg, digital strategi og IT-arkitektur tilpasset dine forretningsbehov."
+    },
+    "software": {
+      "title": "Programvareutvikling",
+      "description": "Skreddersydd programvare bygget for å løse reelle problemer — pålitelig, vedlikeholdbar og designet for langsiktig vekst."
+    },
+    "programming": {
+      "title": "Programmering",
+      "description": "Praktiske programmeringstjenester på tvers av et bredt spekter av språk, plattformer og tekniske utfordringer."
+    },
+    "education": {
+      "title": "Undervisning",
+      "description": "Programmering, programvareutvikling og IT-relaterte kurs — tilgjengelig både fysisk og online."
+    }
+  },
+  "about": {
+    "heading": "Om Codefjell",
+    "description": "Codefjell er et norsk IT-selskap som tilbyr rådgivning, programvareutvikling og teknologiopplæring. Vi samarbeider tett med kunder for å levere praktiske, skalerbare løsninger — og vi deler vår kunnskap gjennom kurs som er tilgjengelige for alle, online og i klasserommet."
+  },
+  "contact": {
+    "heading": "Klar til å komme i gang?",
+    "subtitle": "La oss snakke om hvordan Codefjell kan hjelpe din virksomhet fremover.",
+    "cta": "Kontakt oss"
+  },
+  "footer": {
+    "tagline": "IT-rådgivning, programvareutvikling og teknologiopplæring.",
+    "copyright": "© 2026 Codefjell. Alle rettigheter forbeholdt."
+  }
+}

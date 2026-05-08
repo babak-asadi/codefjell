@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "IT Consulting & Software Development",
+    "subtitle": "Codefjell delivers expert IT consulting, software development, and technology training to help your business move forward.",
+    "cta": "Get in Touch"
+  },
+  "services": {
+    "heading": "What We Do",
+    "portal": {
+      "title": "Web Portal Operations",
+      "description": "Management and operation of web portals — keeping your online presence running reliably and securely."
+    },
+    "consulting": {
+      "title": "IT Consulting",
+      "description": "Expert guidance on technology decisions, digital strategy, and IT architecture tailored to your business needs."
+    },
+    "software": {
+      "title": "Software Development",
+      "description": "Custom software built to solve real problems — reliable, maintainable, and designed for long-term growth."
+    },
+    "programming": {
+      "title": "Programming",
+      "description": "Hands-on programming services across a wide range of languages, platforms, and technical challenges."
+    },
+    "education": {
+      "title": "Education & Training",
+      "description": "Programming, software development, and IT courses — available both in-person and online."
+    }
+  },
+  "about": {
+    "heading": "About Codefjell",
+    "description": "Codefjell is a Norwegian IT company offering consulting, software development, and technology education. We work closely with clients to deliver practical, scalable solutions — and we share our knowledge through courses that are accessible to everyone, online and in the classroom."
+  },
+  "contact": {
+    "heading": "Ready to Get Started?",
+    "subtitle": "Let's talk about how Codefjell can help your business move forward.",
+    "cta": "Contact Us"
+  },
+  "footer": {
+    "tagline": "IT consulting, software development, and technology education.",
+    "copyright": "© 2026 Codefjell. All rights reserved."
+  }
+}
