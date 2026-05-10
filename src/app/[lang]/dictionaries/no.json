@@ -2,6 +2,7 @@
   "nav": {
     "services": "Tjenester",
     "about": "Om oss",
+    "courses": "Kurs",
     "contact": "Kontakt"
   },
   "hero": {
@@ -34,12 +35,133 @@
   },
   "about": {
     "heading": "Om Codefjell",
-    "description": "Codefjell er et norsk IT-selskap som tilbyr rådgivning, programvareutvikling og teknologiopplæring. Vi samarbeider tett med kunder for å levere praktiske, skalerbare løsninger — og vi deler vår kunnskap gjennom kurs som er tilgjengelige for alle, online og i klasserommet."
+    "description": "Codefjell er et norsk enkeltpersonforetak med base i Oslo, stiftet og eid av Babak Asadi Kordshooli. Vi tilbyr IT-rådgivning, programvareutvikling og teknologiopplæring — og samarbeider tett med kunder for å levere praktiske, skalerbare løsninger og dele kunnskap gjennom kurs tilgjengelige for alle.",
+    "officialHeading": "Offisiell foretaksinformasjon",
+    "orgLabel": "Organisasjonsnummer",
+    "org": "937 552 114",
+    "legalNameLabel": "Juridisk navn",
+    "legalName": "BABAK ASADI KORDSHOOLI",
+    "companyTypeLabel": "Selskapsform",
+    "companyType": "Enkeltpersonforetak",
+    "industryLabel": "Bransje",
+    "industry": "IT — annet (NACE 63.910)",
+    "ownerLabel": "Innehaver",
+    "owner": "Babak Asadi Kordshooli",
+    "addressLabel": "Adresse",
+    "address": "Grimelundshaugen 16 F, 0374 Oslo",
+    "registeredLabel": "Registreringsdato",
+    "registered": "30. april 2026",
+    "statusLabel": "Status",
+    "status": "Aktivt",
+    "sourceLabel": "Kilde",
+    "source": "Brønnøysundregistrene"
+  },
+  "logo": {
+    "heading": "Logoen vår",
+    "description": "Codefjell-logoen er inspirert av Alvand — en fjelltopp i det vestlige Iran. Navnet Codefjell kombinerer 'Code' med det norske ordet 'fjell', og knytter teknologiarbeidet vårt til den styrken og varigheten som fjell representerer. Alvand er et personlig symbol for grunnleggeren, og bygger bro mellom hans iranske røtter og livet og arbeidet hans i Norge."
   },
   "contact": {
     "heading": "Klar til å komme i gang?",
     "subtitle": "La oss snakke om hvordan Codefjell kan hjelpe din virksomhet fremover.",
     "cta": "Kontakt oss"
+  },
+  "coursesPage": {
+    "heading": "Kurs",
+    "subtitle": "Praktisk teknologiopplæring for utviklere og team."
+  },
+  "systemDesignCourse": {
+    "title": "Systemdesign",
+    "subtitle": "Lær å designe skalerbare og pålitelige systemer fra grunnen av.",
+    "overview": "Dette kurset dekker grunnleggende prinsipper for design av distribuerte systemer i stor skala. Gjennom praktiske eksempler og virkelige casestudier vil du utvikle ferdigheter til å bryte ned komplekse krav til robuste tekniske arkitekturer.",
+    "topicsHeading": "Hva du lærer",
+    "topics": [
+      "Skalerbarhet og lastbalansering",
+      "Databasedesign og replikeringsstrategier",
+      "Caching, meldingskøer og asynkron prosessering",
+      "API-design, integrasjon og mikrotjenester",
+      "Autentiserings- og autorisasjonsmetoder",
+      "API-integrasjonsmønstre og beste praksis",
+      "Overvåking, logging og feiltoleranse",
+      "Gjennomgang av virkelige arkitekturer"
+    ],
+    "detailsHeading": "Kursinformasjon",
+    "level": "Middels til avansert",
+    "levelLabel": "Nivå",
+    "duration": "20 timer",
+    "durationLabel": "Varighet",
+    "format": "Online og fysisk — videoforelesninger, øvelser og live spørsmålsrunder",
+    "formatLabel": "Format",
+    "cta": "Ta kontakt",
+    "backLabel": "Alle kurs"
+  },
+  "reactTsCourse": {
+    "title": "React (TypeScript)",
+    "subtitle": "Bygg moderne, typesikre webapplikasjoner med React og TypeScript.",
+    "overview": "Dette kurset lærer deg å bygge produksjonsklare webapplikasjoner med React og TypeScript. Du vil lære å tenke i komponenter, håndtere tilstand effektivt og bruke TypeScripts typesystem for å skrive mer pålitelig og vedlikeholdbar kode.",
+    "topicsHeading": "Hva du lærer",
+    "topics": [
+      "TypeScript-grunnlag for React-utviklere",
+      "Funksjonelle komponenter og hooks",
+      "Typesikre props, tilstand og kontekst",
+      "Henting og håndtering av data med TypeScript",
+      "Ruting og navigasjon",
+      "Testing av React-komponenter"
+    ],
+    "detailsHeading": "Kursinformasjon",
+    "level": "Nybegynner til middels",
+    "levelLabel": "Nivå",
+    "duration": "5 uker (fleksibel, selvbestemt tempo)",
+    "durationLabel": "Varighet",
+    "format": "Online — videoforelesninger, øvelser og live spørsmålsrunder",
+    "formatLabel": "Format",
+    "cta": "Ta kontakt",
+    "backLabel": "Alle kurs"
+  },
+  "nodeTsCourse": {
+    "title": "Node.js (TypeScript)",
+    "subtitle": "Bygg skalerbare server-applikasjoner med Node.js og TypeScript.",
+    "overview": "Dette kurset dekker bygging av robuste backend-tjenester med Node.js og TypeScript. Du vil lære å designe REST-API-er, jobbe med databaser, håndtere autentisering og strukturere koden for vedlikeholdbarhet og skala.",
+    "topicsHeading": "Hva du lærer",
+    "topics": [
+      "TypeScript-oppsett og konfigurasjon for Node.js",
+      "Bygging av REST-API-er med Express",
+      "Arbeid med databaser (SQL og NoSQL)",
+      "Autentisering og autorisasjon",
+      "Feilhåndtering og middleware-mønstre",
+      "Testing og utrulling av Node.js-tjenester"
+    ],
+    "detailsHeading": "Kursinformasjon",
+    "level": "Middels",
+    "levelLabel": "Nivå",
+    "duration": "5 uker (fleksibel, selvbestemt tempo)",
+    "durationLabel": "Varighet",
+    "format": "Online — videoforelesninger, øvelser og live spørsmålsrunder",
+    "formatLabel": "Format",
+    "cta": "Ta kontakt",
+    "backLabel": "Alle kurs"
+  },
+  "jsBegCourse": {
+    "title": "JavaScript for nybegynnere",
+    "subtitle": "Lær grunnleggende programmering med JavaScript — ingen erfaring nødvendig.",
+    "overview": "Dette kurset er for deg som er helt ny til programmering og ønsker å lære gjennom JavaScript. Fra det aller enkleste grunnlaget bygger du en solid forståelse av programmeringskonsepter og skriver ekte kode allerede i løpet av den første uken.",
+    "topicsHeading": "Hva du lærer",
+    "topics": [
+      "Variabler, datatyper og operatorer",
+      "Kontrollflyt: betingelser og løkker",
+      "Funksjoner og scope",
+      "Arrayer og objekter",
+      "Arbeid med nettleseren og DOM",
+      "Introduksjon til asynkron JavaScript"
+    ],
+    "detailsHeading": "Kursinformasjon",
+    "level": "Nybegynner",
+    "levelLabel": "Nivå",
+    "duration": "4 uker (fleksibel, selvbestemt tempo)",
+    "durationLabel": "Varighet",
+    "format": "Online — videoforelesninger, øvelser og live spørsmålsrunder",
+    "formatLabel": "Format",
+    "cta": "Ta kontakt",
+    "backLabel": "Alle kurs"
   },
   "contactPage": {
     "heading": "Kontakt oss",

@@ -7,7 +7,7 @@ import Button from "@mui/material/Button";
 import Box from "@mui/material/Box";
 
 interface HeaderDict {
-  nav: { services: string; about: string; contact: string };
+  nav: { services: string; about: string; courses: string; contact: string };
 }
 
 interface HeaderProps {
@@ -36,8 +36,11 @@ export default function Header({ lang, dict }: HeaderProps) {
           <Button color="inherit" component={Link} href={`/${lang}#services`}>
             {dict.nav.services}
           </Button>
-          <Button color="inherit" component={Link} href={`/${lang}#about`}>
+          <Button color="inherit" component={Link} href={`/${lang}/about`}>
             {dict.nav.about}
+          </Button>
+          <Button color="inherit" component={Link} href={`/${lang}/courses`}>
+            {dict.nav.courses}
           </Button>
           <Button color="inherit" component={Link} href={`/${lang}/contact`}>
             {dict.nav.contact}

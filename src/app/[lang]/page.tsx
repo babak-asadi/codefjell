@@ -55,7 +55,7 @@ export default async function HomePage({ params }: { params: Promise<{ lang: str
           <Button
             variant="contained"
             size="large"
-            href={`/${lang}#contact`}
+            href={`/${lang}/contact`}
             sx={{
               bgcolor: "white",
               color: "primary.main",
@@ -104,60 +104,6 @@ export default async function HomePage({ params }: { params: Promise<{ lang: str
               </Grid>
             ))}
           </Grid>
-        </Container>
-      </Box>
-
-      {/* About */}
-      <Box id="about" sx={{ py: { xs: 8, md: 12 }, bgcolor: "grey.50" }}>
-        <Container maxWidth="md" sx={{ textAlign: "center" }}>
-          <Typography
-            variant="h3"
-            component="h2"
-            sx={{ fontWeight: 700, mb: 3 }}
-          >
-            {dict.about.heading}
-          </Typography>
-          <Typography
-            variant="h6"
-            color="text.secondary"
-            sx={{ fontWeight: 400, lineHeight: 1.8 }}
-          >
-            {dict.about.description}
-          </Typography>
-        </Container>
-      </Box>
-
-      {/* Contact CTA */}
-      <Box
-        id="contact"
-        sx={{
-          py: { xs: 8, md: 12 },
-          bgcolor: "primary.main",
-          color: "primary.contrastText",
-          textAlign: "center",
-        }}
-      >
-        <Container maxWidth="sm">
-          <Typography variant="h3" sx={{ fontWeight: 700, mb: 2 }}>
-            {dict.contact.heading}
-          </Typography>
-          <Typography variant="h6" sx={{ opacity: 0.9, mb: 5, fontWeight: 400 }}>
-            {dict.contact.subtitle}
-          </Typography>
-          <Button
-            variant="contained"
-            size="large"
-            href="mailto:contact@codefjell.no"
-            sx={{
-              bgcolor: "white",
-              color: "primary.main",
-              fontWeight: 700,
-              px: 4,
-              "&:hover": { bgcolor: "grey.100" },
-            }}
-          >
-            {dict.contact.cta}
-          </Button>
         </Container>
       </Box>
 

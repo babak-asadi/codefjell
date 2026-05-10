@@ -2,6 +2,7 @@
   "nav": {
     "services": "Services",
     "about": "About",
+    "courses": "Courses",
     "contact": "Contact"
   },
   "hero": {
@@ -34,12 +35,133 @@
   },
   "about": {
     "heading": "About Codefjell",
-    "description": "Codefjell is a Norwegian IT company offering consulting, software development, and technology education. We work closely with clients to deliver practical, scalable solutions — and we share our knowledge through courses that are accessible to everyone, online and in the classroom."
+    "description": "Codefjell is a Norwegian sole proprietorship based in Oslo, founded and owned by Babak Asadi Kordshooli. We offer IT consulting, software development, and technology education — working closely with clients to deliver practical, scalable solutions and sharing knowledge through courses accessible to everyone.",
+    "officialHeading": "Official Company Information",
+    "orgLabel": "Organization number",
+    "org": "937 552 114",
+    "legalNameLabel": "Legal name",
+    "legalName": "BABAK ASADI KORDSHOOLI",
+    "companyTypeLabel": "Company type",
+    "companyType": "Sole proprietorship (Enkeltpersonforetak)",
+    "industryLabel": "Industry",
+    "industry": "IT — Other (NACE 63.910)",
+    "ownerLabel": "Owner",
+    "owner": "Babak Asadi Kordshooli",
+    "addressLabel": "Address",
+    "address": "Grimelundshaugen 16 F, 0374 Oslo",
+    "registeredLabel": "Registration date",
+    "registered": "30 April 2026",
+    "statusLabel": "Status",
+    "status": "Active",
+    "sourceLabel": "Source",
+    "source": "Brønnøysundregistrene"
+  },
+  "logo": {
+    "heading": "Our Logo",
+    "description": "The Codefjell logo is inspired by Alvand — a mountain peak in western Iran. The name Codefjell combines 'Code' with 'fjell', the Norwegian word for mountain, connecting our technology work with the strength and permanence that mountains represent. Alvand is a personal symbol for our founder, bridging his Iranian roots with his life and work in Norway."
   },
   "contact": {
     "heading": "Ready to Get Started?",
     "subtitle": "Let's talk about how Codefjell can help your business move forward.",
     "cta": "Contact Us"
+  },
+  "coursesPage": {
+    "heading": "Courses",
+    "subtitle": "Practical technology education for developers and teams."
+  },
+  "systemDesignCourse": {
+    "title": "System Design",
+    "subtitle": "Learn to architect scalable, reliable systems from first principles.",
+    "overview": "This course covers the fundamentals of designing large-scale distributed systems. Through practical examples and real-world case studies, you will develop the skills to break down complex requirements into robust technical architectures.",
+    "topicsHeading": "What You'll Learn",
+    "topics": [
+      "Scalability and load balancing",
+      "Database design and replication strategies",
+      "Caching, message queues, and async processing",
+      "API design, integration, and microservices",
+      "Authentication and authorization methods",
+      "API integration patterns and best practices",
+      "Monitoring, logging, and fault tolerance",
+      "Real-world architecture walkthroughs"
+    ],
+    "detailsHeading": "Course Details",
+    "level": "Intermediate to Advanced",
+    "levelLabel": "Level",
+    "duration": "20 hours",
+    "durationLabel": "Duration",
+    "format": "Online and in-person — video lectures, exercises, and live Q&A sessions",
+    "formatLabel": "Format",
+    "cta": "Get in Touch",
+    "backLabel": "All Courses"
+  },
+  "reactTsCourse": {
+    "title": "React (TypeScript)",
+    "subtitle": "Build modern, type-safe web applications with React and TypeScript.",
+    "overview": "This course teaches you how to build production-ready web applications using React and TypeScript. You will learn how to think in components, manage state effectively, and leverage TypeScript's type system to write more reliable and maintainable frontend code.",
+    "topicsHeading": "What You'll Learn",
+    "topics": [
+      "TypeScript fundamentals for React developers",
+      "Functional components and hooks",
+      "Type-safe props, state, and context",
+      "Fetching and handling data with TypeScript",
+      "Routing and navigation",
+      "Testing React components"
+    ],
+    "detailsHeading": "Course Details",
+    "level": "Beginner to Intermediate",
+    "levelLabel": "Level",
+    "duration": "5 weeks (flexible, self-paced)",
+    "durationLabel": "Duration",
+    "format": "Online — video lectures, exercises, and live Q&A sessions",
+    "formatLabel": "Format",
+    "cta": "Get in Touch",
+    "backLabel": "All Courses"
+  },
+  "nodeTsCourse": {
+    "title": "Node.js (TypeScript)",
+    "subtitle": "Build scalable server-side applications with Node.js and TypeScript.",
+    "overview": "This course covers building robust backend services using Node.js and TypeScript. You will learn how to design REST APIs, work with databases, handle authentication, and structure your code for maintainability and scale.",
+    "topicsHeading": "What You'll Learn",
+    "topics": [
+      "TypeScript setup and configuration for Node.js",
+      "Building REST APIs with Express",
+      "Working with databases (SQL and NoSQL)",
+      "Authentication and authorization",
+      "Error handling and middleware patterns",
+      "Testing and deploying Node.js services"
+    ],
+    "detailsHeading": "Course Details",
+    "level": "Intermediate",
+    "levelLabel": "Level",
+    "duration": "5 weeks (flexible, self-paced)",
+    "durationLabel": "Duration",
+    "format": "Online — video lectures, exercises, and live Q&A sessions",
+    "formatLabel": "Format",
+    "cta": "Get in Touch",
+    "backLabel": "All Courses"
+  },
+  "jsBegCourse": {
+    "title": "JavaScript for Beginners",
+    "subtitle": "Learn the fundamentals of programming with JavaScript — no experience needed.",
+    "overview": "This course is for complete beginners who want to learn programming through JavaScript. Starting from the very basics, you will build a solid foundation in programming concepts and write real code by the end of the first week.",
+    "topicsHeading": "What You'll Learn",
+    "topics": [
+      "Variables, data types, and operators",
+      "Control flow: conditions and loops",
+      "Functions and scope",
+      "Arrays and objects",
+      "Working with the browser and the DOM",
+      "Introduction to asynchronous JavaScript"
+    ],
+    "detailsHeading": "Course Details",
+    "level": "Beginner",
+    "levelLabel": "Level",
+    "duration": "4 weeks (flexible, self-paced)",
+    "durationLabel": "Duration",
+    "format": "Online — video lectures, exercises, and live Q&A sessions",
+    "formatLabel": "Format",
+    "cta": "Get in Touch",
+    "backLabel": "All Courses"
   },
   "contactPage": {
     "heading": "Contact Us",
