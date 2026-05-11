@@ -47,6 +47,7 @@ export default async function AboutPage({ params }: { params: Promise<{ lang: st
             borderColor: "divider",
             borderRadius: 2,
             overflow: "hidden",
+            mb: 8,
           }}
         >
           {rows.map(({ label, value }, i) => (
@@ -83,9 +84,6 @@ export default async function AboutPage({ params }: { params: Promise<{ lang: st
           ))}
         </Box>
 
-        <Typography variant="caption" color="text.disabled" sx={{ display: "block", mt: 1.5, mb: 8 }}>
-          {a.sourceLabel}: {a.source}
-        </Typography>
 
         <Divider sx={{ mb: 8 }} />
 
